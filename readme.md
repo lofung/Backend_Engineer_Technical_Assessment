@@ -21,6 +21,7 @@ Features:
 6. Connected to my own test project postgreSQL for easy testing.
 
 Choice of Framework: Flask
+
 Pros: 
    1. Lightweight, quick to set up
    2. Flexible, compared to Django
